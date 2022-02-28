@@ -1,0 +1,50 @@
+body{
+    background-image: url(assets/image/img9.jpg);
+    background-size:cover;
+}
+
+#head{
+    font-family: 'Syne Tactile', cursive;
+    color: 	#bd7011;
+    font-weight: 900;
+    margin-left: 700px;
+    font-size: 60px;
+    text-align: center;
+}
+#par2{
+    font-family: 'Syne Tactile', cursive;
+    text-align: center;
+    margin-left: 700px;
+    font-size: 30px;
+    font-weight: 400px;
+    margin-top: -50px;
+    color: 	#00BFFF;
+}
+#divAdmin{
+   width: 50%;
+   float: left;
+}
+
+#divUser{
+  width: 50%;
+  float: left;
+}
+
+#clr{
+    clear: left;
+}
+
+#login{
+    margin-top: 100px;
+    margin-left: 800px;
+}
+#admin{
+    width: 100px;
+}
+#divAdmin h2 ,#divUser h2 {
+    font-family: 'Syne Tactile', cursive;
+    color: 	#bd7011;
+}
+#users{
+    width: 107px;
+}

@@ -1,0 +1,117 @@
+#navbar{
+   
+    background-color: #a1322154;
+    font-weight: 900;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: -1;
+}
+
+#navimg{
+    margin-left: 8px;
+    width: 30%;
+    float: left;
+    font-family: 'Syne Tactile', cursive;
+    
+}
+#nimg{
+    width: 5%;
+    float: left;
+}
+
+#nimg img{
+    display: inline-block;
+    width: 50px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#navdes{
+    width: 60%;
+    float: left;
+}
+#clr{
+    clear: left;
+}
+
+.link1{
+    padding: 30px;
+    margin-left: 50px;
+    display: inline-block;
+    height: fit-content;
+    text-align: center;
+    color: #0f215f;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-family: 'Syne Tactile', cursive;
+}
+body{
+    color: #0f215f;
+   
+}
+
+#descsess2{
+    width: 50%;
+    float: left;
+    margin-left: 20px;
+}
+
+#imgsess2{
+    width: 30%;
+    float: left;
+    margin-top: 100px;
+}
+#clr{
+    clear: left;
+}
+
+
+#sessi2{
+    
+    margin-top: 100px;
+    font-family: 'Syne Tactile', cursive;
+    
+}
+
+#form .one{
+    margin: 10px;
+    width: 60%;
+    padding: 10px;
+    border: none;
+    color: #0f215f;
+    font-size: 16px;
+    background-color: #a1322154;
+}
+#form input{
+  
+    font-size: 16px;
+    
+    border-radius: 10px;
+}
+#gender{
+    margin: 10px;
+    color: #0f215f;
+    font-size: 16px;
+    font-weight: 900;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+
+#submit{
+    font-weight: 900;
+    font-family: 'Syne Tactile', cursive;
+    background-color: #0f215f;
+    margin-left: 15px;
+    margin-top: 15px;
+    width: 60%;
+    padding: 10px;
+    border: none;
+    color: #a13221f8;
+}
+
+

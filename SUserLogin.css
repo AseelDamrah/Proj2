@@ -1,0 +1,108 @@
+#navbar{
+   
+    background-color: #a1322154;
+    font-weight: 900;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+#navimg{
+    margin-left: 8px;
+    width: 30%;
+    float: left;
+    font-family: 'Syne Tactile', cursive;
+    
+}
+#nimg{
+    width: 5%;
+    float: left;
+}
+
+#nimg img{
+    display: inline-block;
+    width: 50px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#navdes{
+    width: 60%;
+    float: left;
+}
+#clr{
+    clear: left;
+}
+
+.link1{
+    padding: 30px;
+    margin-left: 50px;
+    display: inline-block;
+    height: fit-content;
+    text-align: center;
+    color: #0f215f;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-family: 'Syne Tactile', cursive;
+}
+
+.input1{
+     border: none;
+     border-bottom: black 4px solid;
+     font-size: 18px;
+     margin-bottom: 20px;
+}
+
+#form{
+    width: 40%;
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 90px;
+    padding-left: 20px;
+    font-family: 'Syne Tactile', cursive;
+}
+#inputform{
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+#submit1,#button1{
+    padding: 10px;
+    width: 50%;
+    margin-left: 40px;
+    margin-top: 20px;
+    border: 3px solid #a1322154;
+    background-color: #a1322154;
+    font-size: 17px;
+    font-family: 'Syne Tactile', cursive;
+    font-weight: 900;
+    border-radius: 5px;
+    color: #0f215f;
+}
+
+#imgsess2{
+    width: 50%;
+    float: left;
+}
+
+#clr2{
+    clear: left;
+}
+
+body{
+    color: #0f215f;
+}
+
+#sess2{
+    margin-top: 100px;
+}
+
+#button1 a{
+    text-decoration: none;
+    color: #0f215f;
+}
